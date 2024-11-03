@@ -1,0 +1,40 @@
+.custom-container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .custom-input {
+    border-radius: 5px;
+  }
+  
+  .custom-add-btn {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+  }
+  
+  .custom-card {
+    border: 1px solid #d1e7dd;
+  }
+  
+  .custom-form-input,
+  .custom-textarea {
+    border-color: #dee2e6;
+    border-radius: 4px;
+  }
+  
+  .custom-submit-btn {
+    background-color: #28a745;
+  }
+  
+  .custom-article-card {
+    border-left: 5px solid #17a2b8;
+  }
+  
+  .custom-img {
+    border-radius: 8px;
+  }
+  
+  .custom-vote-btn {
+    margin-right: 5px;
+  }
+  
